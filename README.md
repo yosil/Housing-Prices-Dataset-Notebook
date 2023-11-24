@@ -1,1 +1,2 @@
 # Housing-Prices-Dataset-Notebook
+This notebook demonstrated a step-by-step approach to solving a House Pricing regression problem. First, we will explore a housing pricing dataset using Python libraries and prepare the dataset for model training. Second, we will consider different machine learning (ML) algorithms with the preprocessed data and tune the hyperparameters for the best ML models out of all the models that were examined. Lastly, we will combine the tuned ML models using a voting regressor to form the final predictions.
